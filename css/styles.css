@@ -1,15 +1,9 @@
-* {
-    padding: 0;
-    margin: 0;
-    font: "Times new roman";
-}
-
 .hello {
     transition: 3s;
     color: aqua;
 }
 
-.hello {
+.hello:hover {
     transition: 3s;
-    color: blueviolet;
+    color: yellow;
 }
